@@ -1,14 +1,11 @@
-.header-left {
-    font-family: arial,sans-sarif;
-  }
+.nav-l {
+  font-family: arial, sans-sarif;
+  font-size: 13px;
+  display: table
   
-  .header-right {
-    font-family: arial,sans-sarif;
-    
-  }
-  
-  .logo {
-    padding-top: 109px;
-    height: 92px;
-    width: 272px;
-  }
+}
+
+.nav-r {
+  font-family: arial, san-sarif;
+  font-size: 13px;
+}
