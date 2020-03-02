@@ -1,11 +1,38 @@
-nav-l {
-  font-family: arial, sans-sarif;
+#nv {
+  display: inline-block;
+  width: 30%;
+  height: 20px;
+  padding: 5px 10px 5px 10px;
+  font-family: Arial, sans-serif;
   font-size: 13px;
-  display: table
-  
+  margin: auto;
+  text-decoration: none;
+  color: black;
 }
 
-nav-r {
-  font-family: arial, san-sarif;
+.ln {
+  width: 10%;
+  height: 20px;
+  float: left;
+}
+
+#nvb {
+  display: inline-block;
+  padding-right: 15px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  margin-right: 0 0 0 17px;
+  float: right;
+}
+
+main {
+  text-align: center;
+  padding-top: 207px;
+}
+
+.footer-left {
+  display: inline-block;
+  padding-left: 15px;
+  font-family: Arial, sans-serif;
   font-size: 13px;
 }
