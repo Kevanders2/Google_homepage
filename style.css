@@ -1,7 +1,7 @@
 #nv {
   display: inline-block;
   width: 30%;
-  height: 20px;
+  height: 13px;
   padding: 5px 10px 5px 10px;
   font-family: Arial, sans-serif;
   font-size: 13px;
@@ -14,16 +14,33 @@
   width: 10%;
   height: 20px;
   float: left;
+  padding-left: 15;
+}
+
+.ln2 {
+  padding-left: 15px;
 }
 
 #nvb {
   display: inline-block;
-  padding-right: 15px;
+  width: 60%;
+  height: 13px;
+  padding: 5px 10px 5px 10px;
   font-family: Arial, sans-serif;
   font-size: 13px;
-  margin-right: 0 0 0 17px;
-  float: right;
+  margin: auto;
+  text-decoration: none;
+  text-decoration-color: black;
 }
+
+.rn {
+  width: 80%;
+  height: 10px;
+  float: left;
+  padding-right: 15px;
+  text-align: right;
+}
+
 
 main {
   text-align: center;
@@ -35,4 +52,19 @@ main {
   padding-left: 15px;
   font-family: Arial, sans-serif;
   font-size: 13px;
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 17px;
+
+}
+
+.footer-right {
+  display: inline-block;
+  padding-left: 27px;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 17px;
+  right: 27px;
 }
